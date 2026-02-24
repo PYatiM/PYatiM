@@ -42,23 +42,6 @@ Built my own packet + communication logic because… curiosity.
 
 And various other projects..
 
-
----
-
-## Current Mode
-
-* Building more security + system projects
-* Learning by doing (and sometimes breaking)
-* Slowly pushing new work here
-
----
-
-## Stats (because GitHub likes stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PYatiM\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PYatiM\&layout=compact\&theme=dark\&hide_border=true)
-
 ---
 
 ## Small Note
