@@ -6,16 +6,6 @@ More projects are on the way — I keep building and pushing as I go.
 
 ---
 
-## What I Usually Mess With
-
-* 🔐 System Security & Isolation
-* 🌐 Networks, Protocols, and Traffic
-* 🧠 CTF-style problem solving
-* 🛠️ Building small systems that do real things
-* 🧩 Figuring out how things break (and how to stop that)
-
----
-
 ## Tech I Use
 
 **Languages**
@@ -41,11 +31,3 @@ Experimenting with isolation, controlled execution, and containment.
 Built my own packet + communication logic because… curiosity.
 
 And various other projects..
-
----
-
-## Small Note
-
-Still learning. Still building. Still curious.
-
-More coming soon.
