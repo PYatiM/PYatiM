@@ -21,10 +21,10 @@ Node.js · Express · React · Vite · MongoDB · Git
 
 ## Things I’ve Built (or building)
 
-**Secure API Gateway (ongoing)**
+**Secure API Gateway **
 Trying to make a gateway that actually *defends*, not just routes.
 
-**Secure Sandbox Engine** (ongoing)
+**Secure Sandbox Engine** 
 Experimenting with isolation, controlled execution, and containment.
 
 **Custom Local Protocol**
